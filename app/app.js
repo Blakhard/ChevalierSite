@@ -1,12 +1,16 @@
 'use strict';
 
 // Declare app level module which depends on views, and components
-angular.module('myApp', [
+angular.module('chevalierApp', [
   'ngRoute',
-  'myApp.view1',
-  'myApp.view2',
-  'myApp.version'
+  'chevalierApp.view1',
+  'chevalierApp.view2',
+  'chevalierApp.main',
+  'chevalierApp.version',
+  'chevalierApp.providers',
+  'chevalierApp.contacts',
+  'chevalierApp.about'
 ]).
 config(['$routeProvider', function($routeProvider) {
-  $routeProvider.otherwise({redirectTo: '/view1'});
+  $routeProvider.otherwise({redirectTo: '/main'});
 }]);

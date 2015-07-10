@@ -1,0 +1,76 @@
+{
+  "type": "teacher",
+  "content": [
+    {
+      "id": "557330f2fddbad3dc0cf685e",
+      "picture": "http://placehold.it/32x32",
+      "name": "Oneill",
+      "registered": "2014-09-20T09:55:08 -03:00",
+      "tags": [
+        "enim",
+        "id",
+        "Lorem",
+        "nisi"
+      ]
+    },
+    {
+      "id": "557330f2cbe595abc73cc1df",
+      "picture": "http://placehold.it/32x32",
+      "name": "Cooke",
+      "registered": "2014-01-27T07:56:46 -03:00",
+      "tags": [
+        "et",
+        "esse",
+        "consectetur",
+        "sint",
+        "esse"
+      ]
+    },
+    {
+      "id": "557330f2dee3a0cf3b1408f0",
+      "picture": "http://placehold.it/32x32",
+      "name": "Clemons",
+      "registered": "2014-11-21T09:54:56 -03:00",
+      "tags": [
+        "cupidatat",
+        "veniam",
+        "aute",
+        "dolor"
+      ]
+    },
+    {
+      "id": "557330f26bf37aae93edbc18",
+      "picture": "http://placehold.it/32x32",
+      "name": "Spence",
+      "registered": "2014-08-29T09:29:21 -03:00",
+      "tags": [
+        "tempor",
+        "veniam",
+        "consectetur",
+        "deserunt"
+      ]
+    },
+    {
+      "id": "557330f28b4039b232546ebe",
+      "picture": "http://placehold.it/32x32",
+      "name": "Hyde",
+      "registered": "2014-06-27T06:01:52 -03:00",
+      "tags": [
+        "veniam",
+        "non",
+        "esse"
+      ]
+    },
+    {
+      "id": "557330f29d7e0b52c7c8c737",
+      "picture": "http://placehold.it/32x32",
+      "name": "Holt",
+      "registered": "2014-05-17T03:02:35 -03:00",
+      "tags": [
+        "est",
+        "aliquip",
+        "dolore"
+      ]
+    }
+  ]
+}
